@@ -14,7 +14,7 @@ const mongoose = require('mongoose');
 
 const Dishes = require('./models/dishes');
 
-const url = 'mongodb+srv://darkpanda08:Vineet2019@node-mongo-bc6zs.mongodb.net/test?retryWrites=true&w=majority';
+const url = <Mongo-URI>;
 
 options = {
   useNewUrlParser: true,
